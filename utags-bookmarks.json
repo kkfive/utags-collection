@@ -1301,12 +1301,18 @@
     },
     "https://www.ciciai.com/chat/": {
       "tags": [
-        "/AI"
+        "type/工具",
+        "topic/AIGC",
+        "site/ciciai.com",
+        "source/官方",
+        "platform/Web"
       ],
       "meta": {
-        "title": "Cici - 你的 AI 朋友",
-        "updated": 1705289025000,
-        "updated3": 1760877504414,
+        "description": "CiciAI是一个集成多种人工智能生成内容（AIGC）能力的在线平台。它提供AI写作、AI绘画、AI视频和AI音频等工具，旨在帮助用户快速、高效地创作各类文本、图像和多媒体内容。",
+        "note": "这是一个典型的AIGC集成应用，将市面上流行的生成能力整合到一个平台中，为用户提供便利。适合需要快速产出多样化内容的市场营销、自媒体运营等场景。使用时需注意AI生成内容的原创性和准确性。",
+        "title": "CiciAI - 一站式AI内容创作平台",
+        "updated": 1760953067465,
+        "updated3": 1760953135327,
         "created": 1705289025000
       }
     },
@@ -2140,19 +2146,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760952977628,
+      "uploadTimestamp": 1760953135338,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760952244950,
-      "currentSyncTimestamp": 1760952977624
+      "lastDataChangeTimestamp": 1760952977624,
+      "currentSyncTimestamp": 1760953135327
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 89,
-      "totalTagsCount": 279,
+      "tagsCount": 91,
+      "totalTagsCount": 283,
       "domainsCount": 119
     },
-    "updated": 1760952977628,
+    "updated": 1760953135338,
     "created": 1760926439878
   }
 }
