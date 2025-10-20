@@ -2,24 +2,18 @@
   "data": {
     "https://cs-nzgjy.acftu.org/": {
       "tags": [
-        "type/应用",
-        "type/平台",
-        "topic/人力资源",
-        "topic/企业管理",
-        "site/女职工家园",
-        "source/官方",
-        "platform/Web",
-        "scope/内部",
-        "scope/测试",
-        "domain/工作"
+        "company/出版社",
+        "project/女职工家园",
+        "env/测试",
+        "type/后台系统"
       ],
       "meta": {
-        "description": "为出版社内部开发的“女职工家园”SaaS平台（Software as a Service）的测试环境。此系统是一个面向公司女性员工的专属线上服务与交流平台。\n",
+        "description": "出版社“女职工家园”项目的SaaS端管理后台，当前为测试环境。\n",
         "favicon": "https://cs-nzgjy.acftu.org/favicon.ico",
-        "note": "作为项目的核心测试入口，用于验证新功能、进行回归测试和复现问题。是日常开发与测试工作需要频繁访问的关键地址。\n",
-        "title": "女职工家园SaaS端 - 测试环境",
-        "updated": 1760941745040,
-        "updated3": 1760941817532,
+        "note": "用于在测试环境中对“女职工家园”SaaS平台进行内容配置、功能验证和数据管理的入口。所有上线前的最终测试和验收都在此进行。\n",
+        "title": "[出版社 | 测试] - 女职工家园SaaS端管理后台",
+        "updated": 1760943167600,
+        "updated3": 1760943168200,
         "created": 1760938522626
       }
     },
@@ -84,24 +78,18 @@
     },
     "https://jnqg.test.zhzg.vip/admin": {
       "tags": [
-        "type/应用",
+        "company/出版社",
+        "project/技能强国",
+        "env/测试",
         "type/后台系统",
-        "topic/人力资源",
-        "topic/在线教育",
-        "topic/系统管理",
-        "site/技能强国",
-        "source/官方",
-        "platform/Web",
-        "scope/内部",
-        "scope/测试",
-        "domain/工作"
+        "topic/技能培训"
       ],
       "meta": {
-        "description": "出版社内部项目“技能强国”的管理后台（Admin端）的测试环境。该系统用于配置、管理与技能培训、在线学习相关的内容、用户数据和系统设置。\n",
-        "note": "系统管理员、内容运营和开发测试人员的核心工作入口。用于录入课程内容、管理用户权限、配置平台参数以及进行功能测试。\n",
+        "description": "“出版社”公司内部项目“技能强国”的管理后台（Admin端）的测试环境。该系统用于管理平台的内容、用户数据及相关配置。\n",
+        "note": "项目开发和运营团队的核心工作入口。所有后台功能测试、内容录入演练、权限管理验证都在此环境中进行。\n",
         "title": "技能强国 Admin端 - 测试环境",
-        "updated": 1760941836971,
-        "updated3": 1760941908688,
+        "updated": 1760943094383,
+        "updated3": 1760943168200,
         "created": 1760520594150
       }
     },
@@ -118,25 +106,18 @@
     },
     "https://code.cloud.alipay.com/dashboard/projects": {
       "tags": [
+        "company/出版社",
+        "company/蚂蚁集团",
+        "project/蚂蚁合作项目",
         "type/代码仓库",
-        "topic/开发",
-        "topic/DevOps",
-        "topic/项目管理",
-        "site/阿里云效",
-        "source/官方",
-        "source/枢纽",
-        "platform/Web",
-        "platform/云服务",
-        "scope/内部",
-        "scope/合作项目",
-        "domain/工作"
+        "platform/阿里云效"
       ],
       "meta": {
-        "description": "基于阿里云效 Codeup 服务的官方代码仓库，用于统一存储和管理出版社与蚂蚁集团所有合作项目的源代码。这是双方技术合作的核心资产库和开发协作平台。\n",
-        "note": "所有与蚂蚁合作项目的技术工作都应以此为起点。不仅是代码的拉取和提交，相关的CI/CD流水线、合并请求（Merge Request）和构建部署也都在此平台进行管理。\n",
-        "title": "阿里云效 - 出版社-蚂蚁集团合作项目代码总仓",
-        "updated": 1760942040817,
-        "updated3": 1760942107209,
+        "description": "该代码仓库托管在“阿里云效”平台上，用于存放“出版社”与“蚂蚁集团”所有合作项目的源代码，是双方技术协作的核心资产。\n",
+        "note": "所有与蚂蚁集团的技术对接、代码同步和版本发布都在此仓库进行，是跨公司协作的核心平台和代码的唯一真实来源 (Single Source of Truth)。\n",
+        "title": "[蚂蚁集团 | 阿里云效] - 出版社合作项目代码总仓",
+        "updated": 1760943062486,
+        "updated3": 1760943168200,
         "created": 1760520524434
       }
     },
@@ -2055,19 +2036,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760942107210,
+      "uploadTimestamp": 1760943168201,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760941908688,
-      "currentSyncTimestamp": 1760942107209
+      "lastDataChangeTimestamp": 1760942107209,
+      "currentSyncTimestamp": 1760943168200
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 97,
-      "totalTagsCount": 277,
+      "tagsCount": 89,
+      "totalTagsCount": 258,
       "domainsCount": 119
     },
-    "updated": 1760942107210,
+    "updated": 1760943168201,
     "created": 1760926439878
   }
 }
