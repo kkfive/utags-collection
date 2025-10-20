@@ -951,12 +951,18 @@
     },
     "https://git.unlock-music.dev/um": {
       "tags": [
-        "/书签"
+        "/书签",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952146228,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "Unlock Music Project - Unlock Music Git Service",
         "updated": 1730984812000,
-        "updated3": 1760877504414,
+        "updated2": 1760952146229,
+        "updated3": 1760952244950,
         "created": 1730984812000
       }
     },
@@ -1683,22 +1689,21 @@
     },
     "http://www.52pojie.cn/": {
       "tags": [
-        "每日签到",
         "type/社区",
         "topic/安全",
-        "topic/逆向工程",
-        "site/吾爱破解",
-        "source/社区",
-        "scope/中文",
-        "domain/学习"
+        "site/52pojie.cn",
+        "source/官方",
+        "domain/学习",
+        "platform/Web",
+        "每日签到"
       ],
       "meta": {
         "description": "吾爱破解（52pojie.cn）是国内知名的安全技术交流论坛，专注于软件安全、逆向工程、病毒分析等领域。网站提供丰富的原创教程、技术文章、工具分享和社区问答，是安全爱好者和开发者学习与交流的重要平台。\n",
         "favicon": "https://www.52pojie.cn/favicon.ico",
         "note": "对于需要深入理解软件底层原理、学习逆向分析或解决特定软件问题的开发者而言，这里是一个宝贵的资源库。许多官方渠道无法解决的疑难杂症，或许能在这里找到民间高手的解决方案或工具。",
         "title": "吾爱破解 - 专注于安全技术与软件逆向的知名中文论坛",
-        "updated": 1760889380356,
-        "updated3": 1760877504414,
+        "updated": 1760952116611,
+        "updated3": 1760952244950,
         "created": 1608803608000
       }
     },
@@ -2009,56 +2014,86 @@
     },
     "https://www.tubangzhu.com/": {
       "tags": [
-        "/书签/资源获取/图片设计"
+        "/书签/资源获取/图片设计",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952170876,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "轻量级在线平面设计工具 - 图帮主",
         "updated": 1601196547000,
-        "updated3": 1760877504414,
+        "updated2": 1760952170877,
+        "updated3": 1760952244950,
         "created": 1601196547000
       }
     },
     "https://www.fotor.com.cn/": {
       "tags": [
-        "/书签/资源获取/图片设计"
+        "/书签/资源获取/图片设计",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952170876,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "Fotor在线设计工具_免费设计素材和模板_在线平面设计网站",
         "updated": 1601196544000,
-        "updated3": 1760877504414,
+        "updated2": 1760952170877,
+        "updated3": 1760952244950,
         "created": 1601196544000
       }
     },
     "https://www.chuangkit.com/designtools/designindex": {
       "tags": [
-        "/书签/资源获取/图片设计"
+        "/书签/资源获取/图片设计",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952170876,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "创客贴_广告设计印刷_图片一键生成_设计图片素材大全",
         "updated": 1601196540000,
-        "updated3": 1760877504414,
+        "updated2": 1760952170877,
+        "updated3": 1760952244950,
         "created": 1601196540000
       }
     },
     "https://www.yitu.cn/": {
       "tags": [
-        "/书签/资源获取/图片设计"
+        "/书签/资源获取/图片设计",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952170876,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "易图网 - SU模型 - 草图大师模型 - Sketchup模型库素材免费下载",
         "updated": 1601196535000,
-        "updated3": 1760877504414,
+        "updated2": 1760952170877,
+        "updated3": 1760952244950,
         "created": 1601196535000
       }
     },
     "https://818ps.com/?bindPhone=1&route_id=16011964178664&route=1,&after_route=1": {
       "tags": [
-        "/书签/资源获取/图片设计"
+        "/书签/资源获取/图片设计",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952170876,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "图怪兽作图神器-在线图片编辑器-PS图片制作-搞定平面设计不求人",
         "updated": 1601196454000,
-        "updated3": 1760877504414,
+        "updated2": 1760952170877,
+        "updated3": 1760952244950,
         "created": 1601196454000
       }
     },
@@ -2081,19 +2116,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760951776143,
+      "uploadTimestamp": 1760952244958,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760951309045,
-      "currentSyncTimestamp": 1760951776135
+      "lastDataChangeTimestamp": 1760951776135,
+      "currentSyncTimestamp": 1760952244950
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 91,
-      "totalTagsCount": 270,
+      "tagsCount": 89,
+      "totalTagsCount": 275,
       "domainsCount": 119
     },
-    "updated": 1760951776143,
+    "updated": 1760952244958,
     "created": 1760926439878
   }
 }
