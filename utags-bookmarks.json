@@ -95,12 +95,18 @@
     },
     "https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLyK2Nxeh45ARAMQJ9dEq3XD": {
       "tags": [
-        "出版社",
-        "Work"
+        "company/出版社",
+        "platform/钉钉",
+        "type/表格",
+        "topic/Bug跟踪",
+        "topic/测试"
       ],
       "meta": {
-        "title": "钉钉BUG表",
-        "updated": 1760520553966,
+        "description": "该钉钉在线表格是出版社测试团队专用的工作文档，用于统一记录和管理在各类项目测试过程中发现的软件缺陷（Bug）。\n",
+        "note": "所有测试人员发现Bug后应第一时间在此登记。填写时请确保问题描述清晰、复现步骤完整，并附上相关截图。这是开发人员定位和修复问题的主要依据，也是项目质量跟踪的核心数据源。\n",
+        "title": "[出版社 | 测试部] - Bug跟踪与记录总表 (钉钉)",
+        "updated": 1760943493562,
+        "updated3": 1760943567941,
         "created": 1760520553966
       }
     },
@@ -2048,19 +2054,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760943436774,
+      "uploadTimestamp": 1760943567945,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760943168200,
-      "currentSyncTimestamp": 1760943436773
+      "lastDataChangeTimestamp": 1760943436773,
+      "currentSyncTimestamp": 1760943567941
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 89,
-      "totalTagsCount": 264,
+      "tagsCount": 93,
+      "totalTagsCount": 267,
       "domainsCount": 119
     },
-    "updated": 1760943436774,
+    "updated": 1760943567945,
     "created": 1760926439878
   }
 }
