@@ -84,13 +84,23 @@
     },
     "https://jnqg.test.zhzg.vip/admin/#/": {
       "tags": [
-        "出版社",
-        "Work",
-        "测试环境"
+        "type/管理后台",
+        "type/应用",
+        "topic/技能培训",
+        "topic/管理",
+        "site/技能强国",
+        "source/官方",
+        "platform/Web",
+        "domain/工作",
+        "scope/内部",
+        "scope/测试环境"
       ],
       "meta": {
-        "title": "【测试】技能强国后台",
-        "updated": 1760877048265,
+        "description": "公司内部“技能强国”项目的Admin管理后台的测试环境入口。\n",
+        "note": "用于新功能验证、问题排查和数据模拟。请注意，此环境中的所有操作都不会影响线上生产数据，且数据可能会被定期清理或重置。\n",
+        "title": "技能强国 | Admin管理后台 - 测试环境",
+        "updated": 1760938958067,
+        "updated3": 1760939029185,
         "created": 1760520594150
       }
     },
@@ -2031,19 +2041,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760938803859,
+      "uploadTimestamp": 1760939029186,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760938596758,
-      "currentSyncTimestamp": 1760938803857
+      "lastDataChangeTimestamp": 1760938803857,
+      "currentSyncTimestamp": 1760939029185
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 87,
-      "totalTagsCount": 259,
+      "tagsCount": 89,
+      "totalTagsCount": 266,
       "domainsCount": 119
     },
-    "updated": 1760938803859,
+    "updated": 1760939029186,
     "created": 1760926439878
   }
 }
