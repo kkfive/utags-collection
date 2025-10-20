@@ -19,20 +19,20 @@
     },
     "https://cilisousuo.cc/": {
       "tags": [
-        "type/搜索引擎",
-        "磁力搜索",
-        "site/磁力搜索",
-        "platform/Web",
-        "scope/中文",
-        "domain/工具箱"
+        "type/工具",
+        "topic/资源搜索",
+        "site/cilisousuo.net",
+        "source/社区",
+        "domain/娱乐",
+        "platform/Web"
       ],
       "meta": {
-        "description": "一个简洁的磁力链接（Magnet Link）搜索引擎，用于在BitTorrent网络中查找和发现P2P共享资源。用户通过输入关键词即可搜索相关的BT种子或磁力链接。\n",
+        "description": "磁力搜是一个专注于磁力链接（Magnet Link）和种子文件（Torrent File）的搜索引擎。它通过索引公开的DHT网络资源，帮助用户快速查找和定位电影、电视剧、软件、游戏等各类数字资源的磁力链接。",
         "favicon": "https://cilisousuo.net/img/logo.png",
-        "note": "作为进入P2P资源世界的入口工具，适用于查找通过常规搜索引擎难以找到的文件。其搜索结果直接、未经过滤，需要用户自行判断资源的安全性和有效性。\n",
-        "title": "磁力搜索 - 专注于BT种子与磁力链接的P2P资源搜索引擎",
-        "updated": 1760951653811,
-        "updated3": 1760951776135,
+        "note": "一个典型的BT资源聚合搜索引擎，为用户查找特定资源提供了便利。使用此类工具需注意版权风险和网络安全问题，下载内容前应谨慎甄别。其存在和可用性可能会因法律和政策原因而频繁变更。",
+        "title": "磁力搜 - 磁力链接搜索引擎",
+        "updated": 1760954378585,
+        "updated3": 1760954444507,
         "created": 1760878272834
       }
     },
@@ -2167,11 +2167,11 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760954145038,
+      "uploadTimestamp": 1760954444509,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760953824826,
-      "currentSyncTimestamp": 1760954145031
+      "lastDataChangeTimestamp": 1760954145031,
+      "currentSyncTimestamp": 1760954444507
     },
     "stats": {
       "bookmarksCount": 152,
@@ -2179,7 +2179,7 @@
       "totalTagsCount": 298,
       "domainsCount": 119
     },
-    "updated": 1760954145038,
+    "updated": 1760954444509,
     "created": 1760926439878
   }
 }
