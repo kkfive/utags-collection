@@ -1336,12 +1336,19 @@
     },
     "https://claude.ai/chats": {
       "tags": [
-        "/AI"
+        "type/工具",
+        "topic/AIGC",
+        "site/claude.ai",
+        "source/官方",
+        "domain/工作",
+        "platform/Web"
       ],
       "meta": {
-        "title": "Claude",
-        "updated": 1705289004000,
-        "updated3": 1760877504414,
+        "description": "Claude.ai是由AI研究公司Anthropic开发的AI助手平台。它提供了基于Claude系列大语言模型的对话式AI服务，以其强大的文本理解、分析和生成能力而闻名。平台支持多种任务，包括内容创作、编程辅助、数据分析和复杂问题解决。",
+        "note": "当前领先的AI助手之一，以其\"宪法AI\"安全方法和在长文本处理方面的优势而著称。适合作为日常工作和学习的智能副驾，尤其在需要处理大量文本和进行深度对话的场景中表现出色。",
+        "title": "Claude.ai - Anthropic开发的AI助手平台",
+        "updated": 1760953751902,
+        "updated3": 1760953824826,
         "created": 1705289004000
       }
     },
@@ -2153,19 +2160,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760953295874,
+      "uploadTimestamp": 1760953824838,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760953135327,
-      "currentSyncTimestamp": 1760953295834
+      "lastDataChangeTimestamp": 1760953295834,
+      "currentSyncTimestamp": 1760953824826
     },
     "stats": {
       "bookmarksCount": 152,
       "tagsCount": 93,
-      "totalTagsCount": 288,
+      "totalTagsCount": 293,
       "domainsCount": 119
     },
-    "updated": 1760953295874,
+    "updated": 1760953824838,
     "created": 1760926439878
   }
 }
