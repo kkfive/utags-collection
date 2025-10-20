@@ -1797,23 +1797,35 @@
     },
     "https://www.zhihu.com/qrcode?url=": {
       "tags": [
-        "/书签/Dev/API接口"
+        "/书签/Dev/API接口",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952903230,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "知乎二维码接口",
         "updated": 1608803608000,
-        "updated3": 1760877504414,
+        "updated2": 1760952903230,
+        "updated3": 1760952977624,
         "created": 1608803608000
       }
     },
     "https://www.zhihu.com/qrcode?url=https://payapp.weixin.qq.com/qr/AQEcvOHF4wXMDZM3WB6awkOI?t=CwAJ#wechat_pay": {
       "tags": [
-        "/书签/Dev/API接口"
+        "/书签/Dev/API接口",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952903230,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "微信支付",
         "updated": 1608803608000,
-        "updated3": 1760877504414,
+        "updated2": 1760952903230,
+        "updated3": 1760952977624,
         "created": 1608803608000
       }
     },
@@ -1841,23 +1853,35 @@
     },
     "https://hugoloveit.com/zh-cn/categories/documentation/": {
       "tags": [
-        "/文档"
+        "/文档",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952903230,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "LoveIt",
         "updated": 1608803607000,
-        "updated3": 1760877504414,
+        "updated2": 1760952903230,
+        "updated3": 1760952977624,
         "created": 1608803607000
       }
     },
     "https://www.staticfile.org/": {
       "tags": [
-        "/文档/静态资源CDN"
+        "/文档/静态资源CDN",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760952903230,
+        "actionType": "BATCH_DELETE_BOOKMARKS"
+      },
       "meta": {
         "title": "七牛云静态资源库",
         "updated": 1608803607000,
-        "updated3": 1760877504414,
+        "updated2": 1760952903230,
+        "updated3": 1760952977624,
         "created": 1608803607000
       }
     },
@@ -2116,19 +2140,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760952244958,
+      "uploadTimestamp": 1760952977628,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760951776135,
-      "currentSyncTimestamp": 1760952244950
+      "lastDataChangeTimestamp": 1760952244950,
+      "currentSyncTimestamp": 1760952977624
     },
     "stats": {
       "bookmarksCount": 152,
       "tagsCount": 89,
-      "totalTagsCount": 275,
+      "totalTagsCount": 279,
       "domainsCount": 119
     },
-    "updated": 1760952244958,
+    "updated": 1760952977628,
     "created": 1760926439878
   }
 }
