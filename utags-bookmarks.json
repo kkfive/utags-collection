@@ -787,20 +787,20 @@
     "https://www.liushen.fun/": {
       "tags": [
         "type/个人主页",
-        "type/作品集",
-        "topic/前端开发",
-        "source/枢纽",
-        "source/官方",
+        "topic/技术",
+        "topic/生活",
         "site/liushen.fun",
-        "domain/学习"
+        "source/官方",
+        "domain/学习",
+        "platform/Web"
       ],
       "meta": {
-        "description": "前端开发者“清羽飞扬 (LIUSHEN)”的个人主页。该网站作为他的个人品牌中心和作品集枢纽，集中展示了他的技术栈、开源项目、个人站点以及博客文章。\n",
+        "description": "这是清羽飞扬（LIUSHEN）的个人主页。他是来自武汉理工大学的前端开发者，网站展示了他的个人简介、技术栈（包括深度学习、前端框架、后端开发等）、开源项目、多个个人站点（博客、代码片段、生活相册等）以及技术文章。网站提供了RSS和邮件订阅功能【turn0view0】。",
         "favicon": "https://www.liushen.fun/assets/images/favicon.png",
-        "note": "设计非常现代、简洁，体现了良好的前端审美。不仅展示了项目，还部署了多个实用的独立站点（如今日热榜、内容中转站），是一个内容丰富且高质量的个人技术品牌枢纽，很值得参考。\n",
+        "note": "一个内容丰富的个人技术博客和项目展示页。站长活跃于前端和后端开发，项目实用且覆盖面广，从友链朋友圈到文件存储服务都有涉及。文章质量较高，主要分享技术实践和部署经验，值得关注和订阅。",
         "title": "清羽飞扬 (LIUSHEN) - 一位前端开发者的个人主页与作品集",
-        "updated": 1760951028921,
-        "updated3": 1760951177647,
+        "updated": 1760951239939,
+        "updated3": 1760951309045,
         "created": 1741181470000
       }
     },
@@ -1579,25 +1579,20 @@
     "https://shields.io/": {
       "tags": [
         "type/工具",
-        "type/API",
         "topic/开发",
-        "topic/可视化",
-        "topic/开源",
         "site/shields.io",
         "source/官方",
-        "source/枢纽",
-        "platform/Web",
-        "domain/工具箱",
-        "scope/英文"
+        "domain/学习",
+        "platform/Web"
       ],
       "meta": {
-        "description": "Shields.io是一个为开源项目提供高质量元数据徽章的在线服务。它能够以SVG格式生成清晰、一致的徽章，用于实时展示项目的构建状态、代码覆盖率、版本号、许可证等信息。该服务通过API与众多持续集成、包管理器和代码分析平台集成。\n",
+        "description": "Shields.io 是一个专注于生成简洁、一致且易读的徽章的服务。它支持为数百种服务创建动态徽章来展示项目指标，也支持创建静态徽章。此外，它还提供 NPM 库以便在应用中自行渲染徽章，并提供 Docker 镜像用于自托管实例【turn0view0】。",
         "favicon": "https://shields.io/img/favicon.ico",
-        "note": "在GitHub等代码托管平台上，这几乎是项目状态徽章的事实标准。通过一个简单的URL就能动态展示项目的健康状况，极大地提升了项目的专业性和信息透明度，是维护开源项目的必备工具。\n",
-        "title": "Shields.io - 为开源项目生成一致、清晰的SVG状态徽章",
-        "updated": 1760889674959,
+        "note": "为项目 README 文档或网站添加高质量徽章的首选工具。动态徽章功能非常强大，可以实时展示项目状态（如构建状态、版本信息、覆盖率等），极大提升项目的专业度和信息透明度。",
+        "title": "Shields.io - 优质的项目徽章生成与托管服务",
+        "updated": 1760951306906,
         "updated2": 1760877949834,
-        "updated3": 1760877504414,
+        "updated3": 1760951309045,
         "created": 1608803609000
       }
     },
@@ -2086,19 +2081,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760951177648,
+      "uploadTimestamp": 1760951309047,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760943828324,
-      "currentSyncTimestamp": 1760951177647
+      "lastDataChangeTimestamp": 1760951177647,
+      "currentSyncTimestamp": 1760951309045
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 95,
-      "totalTagsCount": 276,
+      "tagsCount": 91,
+      "totalTagsCount": 271,
       "domainsCount": 119
     },
-    "updated": 1760951177648,
+    "updated": 1760951309047,
     "created": 1760926439878
   }
 }
