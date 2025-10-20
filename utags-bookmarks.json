@@ -786,12 +786,21 @@
     },
     "https://www.liushen.fun/": {
       "tags": [
-        "/参考"
+        "type/个人主页",
+        "type/作品集",
+        "topic/前端开发",
+        "source/枢纽",
+        "source/官方",
+        "site/liushen.fun",
+        "domain/学习"
       ],
       "meta": {
-        "title": "LiuShen | 主页",
-        "updated": 1741181470000,
-        "updated3": 1760877504414,
+        "description": "前端开发者“清羽飞扬 (LIUSHEN)”的个人主页。该网站作为他的个人品牌中心和作品集枢纽，集中展示了他的技术栈、开源项目、个人站点以及博客文章。\n",
+        "favicon": "https://www.liushen.fun/assets/images/favicon.png",
+        "note": "设计非常现代、简洁，体现了良好的前端审美。不仅展示了项目，还部署了多个实用的独立站点（如今日热榜、内容中转站），是一个内容丰富且高质量的个人技术品牌枢纽，很值得参考。\n",
+        "title": "清羽飞扬 (LIUSHEN) - 一位前端开发者的个人主页与作品集",
+        "updated": 1760951028921,
+        "updated3": 1760951177647,
         "created": 1741181470000
       }
     },
@@ -1236,12 +1245,18 @@
     },
     "https://docs.qq.com/sheet/DTUZQdXlMUU1DVm9Z?u=b54b70d57fe84df09b40aaaa2d6f422b&tab=BB08J2": {
       "tags": [
-        "/书签/Dev"
+        "/书签/Dev",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760951063939,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "广告追踪",
         "updated": 1711681875000,
-        "updated3": 1760877504414,
+        "updated2": 1760951063940,
+        "updated3": 1760951177647,
         "created": 1711681875000
       }
     },
@@ -2071,19 +2086,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760943828326,
+      "uploadTimestamp": 1760951177648,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760943678417,
-      "currentSyncTimestamp": 1760943828324
+      "lastDataChangeTimestamp": 1760943828324,
+      "currentSyncTimestamp": 1760951177647
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 92,
-      "totalTagsCount": 269,
+      "tagsCount": 95,
+      "totalTagsCount": 276,
       "domainsCount": 119
     },
-    "updated": 1760943828326,
+    "updated": 1760951177648,
     "created": 1760926439878
   }
 }
