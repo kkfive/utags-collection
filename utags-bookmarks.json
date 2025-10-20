@@ -940,12 +940,19 @@
     },
     "https://codemod.com/": {
       "tags": [
-        "/书签/学习"
+        "type/工具",
+        "topic/开发",
+        "site/codemod.com",
+        "source/官方",
+        "domain/工作",
+        "platform/Web"
       ],
       "meta": {
-        "title": "Codemod: Automated code migrations & dependency upgrades",
-        "updated": 1731030081000,
-        "updated3": 1760877504414,
+        "description": "Codemod.com 是一个利用人工智能技术实现大规模代码自动重构的平台。它允许开发者通过自然语言描述或预设的Codemod脚本，自动查找、修改和更新代码库，常用于API升级、库迁移、修复安全漏洞和统一代码风格等场景。",
+        "note": "这是一个强大的代码现代化和维护工具，能显著减少大型代码库重构所需的人工工作量。对于处理技术债、升级框架或统一团队编码规范非常有价值。其AI辅助功能降低了编写复杂Codemod脚本的门槛。",
+        "title": "Codemod.com - AI驱动的自动化代码重构工具",
+        "updated": 1760954445222,
+        "updated3": 1760960413233,
         "created": 1731030081000
       }
     },
@@ -2167,19 +2174,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760954444509,
+      "uploadTimestamp": 1760960413237,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760954145031,
-      "currentSyncTimestamp": 1760954444507
+      "lastDataChangeTimestamp": 1760954444507,
+      "currentSyncTimestamp": 1760960413233
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 95,
-      "totalTagsCount": 298,
+      "tagsCount": 96,
+      "totalTagsCount": 303,
       "domainsCount": 119
     },
-    "updated": 1760954444509,
+    "updated": 1760960413237,
     "created": 1760926439878
   }
 }
