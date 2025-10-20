@@ -1318,12 +1318,19 @@
     },
     "https://www.coze.com/": {
       "tags": [
-        "/AI"
+        "type/工具",
+        "topic/AIGC",
+        "site/coze.com",
+        "source/官方",
+        "domain/工作",
+        "platform/Web"
       ],
       "meta": {
-        "title": "Coze",
-        "updated": 1705289015000,
-        "updated3": 1760877504414,
+        "description": "Coze是由字节跳动推出的一个AI Bot开发平台。它提供了一个无代码（low-code/no-code）的编辑器，使用户能够快速创建、调试和部署功能强大的AI聊天机器人。平台集成了多种大语言模型，支持插件扩展、知识库定制和工作流设计，并允许将创建的Bot发布到多个社交平台和渠道【turn0view0】。",
+        "note": "当前AI Bot开发领域的热门平台之一，降低了AI应用开发的门槛。其工作流和插件系统为构建复杂逻辑的Bot提供了可能。适合开发者、产品经理甚至普通用户快速将AI创意落地，并分发到飞书、微信等生态中。",
+        "title": "Coze - 一站式AI Bot开发与分发平台",
+        "updated": 1760953226848,
+        "updated3": 1760953295834,
         "created": 1705289015000
       }
     },
@@ -2146,19 +2153,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760953135338,
+      "uploadTimestamp": 1760953295874,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760952977624,
-      "currentSyncTimestamp": 1760953135327
+      "lastDataChangeTimestamp": 1760953135327,
+      "currentSyncTimestamp": 1760953295834
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 91,
-      "totalTagsCount": 283,
+      "tagsCount": 93,
+      "totalTagsCount": 288,
       "domainsCount": 119
     },
-    "updated": 1760953135338,
+    "updated": 1760953295874,
     "created": 1760926439878
   }
 }
