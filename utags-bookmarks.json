@@ -1268,12 +1268,19 @@
     },
     "https://tc39.es/ecma262/": {
       "tags": [
-        "/文档"
+        "type/文档",
+        "topic/开发",
+        "site/tc39.es",
+        "source/官方",
+        "domain/学习",
+        "platform/Web"
       ],
       "meta": {
-        "title": "ECMAScript® 2025 Language Specification",
-        "updated": 1709281363000,
-        "updated3": 1760877504414,
+        "description": "这是ECMA国际的TC39技术委员会负责维护的ECMAScript语言规范的官方文档。该文档详细定义了JavaScript脚本语言的语法、类型、对象、模型和标准库，是JavaScript语言实现和发展的根本依据。",
+        "note": "这是JavaScript语言的“宪法”，是所有JS开发者最权威、最根本的参考资料。虽然内容极其严谨和晦涩，但对于深入理解语言底层机制、解决疑难杂症或进行前沿技术研究至关重要。",
+        "title": "ECMA-262 - ECMAScript语言规范官方文档",
+        "updated": 1760954073505,
+        "updated3": 1760954145031,
         "created": 1709281363000
       }
     },
@@ -2160,19 +2167,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760953824838,
+      "uploadTimestamp": 1760954145038,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760953295834,
-      "currentSyncTimestamp": 1760953824826
+      "lastDataChangeTimestamp": 1760953824826,
+      "currentSyncTimestamp": 1760954145031
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 93,
-      "totalTagsCount": 293,
+      "tagsCount": 95,
+      "totalTagsCount": 298,
       "domainsCount": 119
     },
-    "updated": 1760953824838,
+    "updated": 1760954145038,
     "created": 1760926439878
   }
 }
