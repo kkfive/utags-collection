@@ -123,25 +123,37 @@
     },
     "https://tenant-pc-104-d86bfa80-b34a-408d-8653-8d37362003ab.dev-hz.cloudbaseapp-sandbox.cn/": {
       "tags": [
-        "出版社",
-        "测试环境",
-        "Work"
+        "company/出版社",
+        "company/蚂蚁集团",
+        "project/蚂蚁合作项目",
+        "env/测试",
+        "type/后台系统",
+        "topic/活动管理"
       ],
       "meta": {
-        "title": "【测试】活动频道后台管理",
-        "updated": 1760520328466,
+        "description": "“出版社”与“蚂蚁集团”合作开发的“活动频道”项目的Admin管理后台，当前为测试环境。\n",
+        "note": "用于开发、测试和内容预演。所有新功能上线前的验证、后台操作流程的演练都在此进行，可以安全地进行各种测试操作。\n",
+        "title": "[出版社 | 蚂蚁集团 | 测试] - 活动频道Admin后台",
+        "updated": 1760943365414,
+        "updated3": 1760943436773,
         "created": 1760520313928
       }
     },
     "https://hdpdsaas.chineseworkers.com.cn/": {
       "tags": [
-        "出版社",
-        "正式环境",
-        "Work"
+        "company/出版社",
+        "company/蚂蚁集团",
+        "project/蚂蚁合作项目",
+        "env/正式",
+        "type/后台系统",
+        "topic/活动管理"
       ],
       "meta": {
-        "title": "【正式】活动频道后台管理",
-        "updated": 1760520344199,
+        "description": "“出版社”与“蚂蚁集团”合作开发的“活动频道”项目的Admin管理后台，当前为线上正式环境。\n",
+        "note": "用于线上活动内容的发布、管理和数据监控。**注意：此为正式环境，任何操作将直接影响线上用户，请务必谨慎操作！**\n",
+        "title": "[出版社 | 蚂蚁集团 | 正式] - 活动频道Admin后台",
+        "updated": 1760943310698,
+        "updated3": 1760943436773,
         "created": 1760520154420
       }
     },
@@ -2036,19 +2048,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760943168201,
+      "uploadTimestamp": 1760943436774,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760942107209,
-      "currentSyncTimestamp": 1760943168200
+      "lastDataChangeTimestamp": 1760943168200,
+      "currentSyncTimestamp": 1760943436773
     },
     "stats": {
       "bookmarksCount": 152,
       "tagsCount": 89,
-      "totalTagsCount": 258,
+      "totalTagsCount": 264,
       "domainsCount": 119
     },
-    "updated": 1760943168201,
+    "updated": 1760943436774,
     "created": 1760926439878
   }
 }
