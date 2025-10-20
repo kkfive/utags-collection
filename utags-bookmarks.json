@@ -3,21 +3,23 @@
     "https://cs-nzgjy.acftu.org/": {
       "tags": [
         "type/应用",
-        "type/后台",
+        "type/平台",
+        "topic/人力资源",
         "topic/企业管理",
-        "domain/工作",
-        "scope/内部项目",
-        "scope/测试环境",
+        "site/女职工家园",
+        "source/官方",
         "platform/Web",
-        "source/官方"
+        "scope/内部",
+        "scope/测试",
+        "domain/工作"
       ],
       "meta": {
-        "description": "公司内部“女职工家园”项目的SaaS（软件即服务）管理后台的测试环境入口。\n",
+        "description": "为出版社内部开发的“女职工家园”SaaS平台（Software as a Service）的测试环境。此系统是一个面向公司女性员工的专属线上服务与交流平台。\n",
         "favicon": "https://cs-nzgjy.acftu.org/favicon.ico",
-        "note": "用于新功能上线前的测试、复现问题或进行无风险的操作演练。注意，此环境的数据非生产数据，可能随时被重置。\n",
-        "title": "[测试] 女职工家园SaaS端",
-        "updated": 1760939305373,
-        "updated3": 1760939417046,
+        "note": "作为项目的核心测试入口，用于验证新功能、进行回归测试和复现问题。是日常开发与测试工作需要频繁访问的关键地址。\n",
+        "title": "女职工家园SaaS端 - 测试环境",
+        "updated": 1760941745040,
+        "updated3": 1760941817532,
         "created": 1760938522626
       }
     },
@@ -2039,19 +2041,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760941586696,
+      "uploadTimestamp": 1760941817533,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760939417046,
-      "currentSyncTimestamp": 1760941586695
+      "lastDataChangeTimestamp": 1760941586695,
+      "currentSyncTimestamp": 1760941817532
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 88,
-      "totalTagsCount": 264,
+      "tagsCount": 93,
+      "totalTagsCount": 266,
       "domainsCount": 119
     },
-    "updated": 1760941586696,
+    "updated": 1760941817533,
     "created": 1760926439878
   }
 }
