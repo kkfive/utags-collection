@@ -1,5 +1,28 @@
 {
   "data": {
+    "https://cs-nzgjy.acftu.org/": {
+      "tags": [
+        "type/管理后台",
+        "type/应用",
+        "topic/女职工",
+        "topic/管理",
+        "site/女职工家园",
+        "source/官方",
+        "platform/Web",
+        "domain/工作",
+        "scope/内部",
+        "scope/测试环境"
+      ],
+      "meta": {
+        "description": "公司内部“女职工家园”项目的SaaS（软件即服务）管理后台的测试环境入口。\n",
+        "favicon": "https://cs-nzgjy.acftu.org/favicon.ico",
+        "note": "用于新功能上线前的测试、复现问题或进行无风险的操作演练。注意，此环境的数据非生产数据，可能随时被重置。\n",
+        "title": "女职工家园 | SaaS管理后台 - 测试环境",
+        "updated": 1760938522626,
+        "updated3": 1760938596758,
+        "created": 1760938522626
+      }
+    },
     "https://cilisousuo.cc/": {
       "tags": [
         "type/搜索引擎",
@@ -2002,18 +2025,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760926439878,
+      "uploadTimestamp": 1760938596760,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "currentSyncTimestamp": 1760926439878
+      "lastDataChangeTimestamp": 1760926439878,
+      "currentSyncTimestamp": 1760938596758
     },
     "stats": {
-      "bookmarksCount": 151,
-      "tagsCount": 79,
-      "totalTagsCount": 248,
-      "domainsCount": 118
+      "bookmarksCount": 152,
+      "tagsCount": 87,
+      "totalTagsCount": 258,
+      "domainsCount": 119
     },
-    "updated": 1760926439878,
+    "updated": 1760938596760,
     "created": 1760926439878
   }
 }
