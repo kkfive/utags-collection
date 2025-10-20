@@ -81,15 +81,14 @@
         "company/出版社",
         "project/技能强国",
         "env/测试",
-        "type/后台系统",
-        "topic/技能培训"
+        "type/后台系统"
       ],
       "meta": {
-        "description": "“出版社”公司内部项目“技能强国”的管理后台（Admin端）的测试环境。该系统用于管理平台的内容、用户数据及相关配置。\n",
-        "note": "项目开发和运营团队的核心工作入口。所有后台功能测试、内容录入演练、权限管理验证都在此环境中进行。\n",
-        "title": "技能强国 Admin端 - 测试环境",
-        "updated": 1760943094383,
-        "updated3": 1760943168200,
+        "description": "出版社“技能强国”项目的Admin管理后台，当前为测试环境。\n",
+        "note": "用于在测试环境中对“技能强国”平台进行后台管理、功能验证和数据配置。是项目上线前进行内部测试和验收的核心入口。\n",
+        "title": "[出版社 | 测试] - 技能强国Admin管理后台",
+        "updated": 1760943578760,
+        "updated3": 1760943678417,
         "created": 1760520594150
       }
     },
@@ -731,12 +730,18 @@
     },
     "http://172.16.5.118:8000/manage/sop/index": {
       "tags": [
-        "/书签/Work/太逗"
+        "/书签/Work/太逗",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760943605247,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "SOP管理 - 高德地图营销管理平台",
         "updated": 1745215823000,
-        "updated3": 1760877504414,
+        "updated2": 1760943605248,
+        "updated3": 1760943678417,
         "created": 1745215823000
       }
     },
@@ -875,23 +880,35 @@
     },
     "https://fuwu.oceanengine.com/user/order?status=ALL": {
       "tags": [
-        "/书签/Work/太逗"
+        "/书签/Work/太逗",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760943608678,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "群峰服务市场-自媒体短视频运营_抖音营销推广获客_直播运营服务商",
         "updated": 1733727099000,
-        "updated3": 1760877504414,
+        "updated2": 1760943608679,
+        "updated3": 1760943678417,
         "created": 1733727099000
       }
     },
     "https://fuwu.oceanengine.com/product/7444130363137343514": {
       "tags": [
-        "/书签/Work/太逗"
+        "/书签/Work/太逗",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760943610347,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "妙笔AI - 脚本智能创作工具-云流量(北京)科技有限公司-群峰服务市场",
         "updated": 1733726998000,
-        "updated3": 1760877504414,
+        "updated2": 1760943610348,
+        "updated3": 1760943678417,
         "created": 1733726998000
       }
     },
@@ -2054,19 +2071,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760943567945,
+      "uploadTimestamp": 1760943678419,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760943436773,
-      "currentSyncTimestamp": 1760943567941
+      "lastDataChangeTimestamp": 1760943567941,
+      "currentSyncTimestamp": 1760943678417
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 93,
-      "totalTagsCount": 267,
+      "tagsCount": 92,
+      "totalTagsCount": 269,
       "domainsCount": 119
     },
-    "updated": 1760943567945,
+    "updated": 1760943678419,
     "created": 1760926439878
   }
 }
