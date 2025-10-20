@@ -970,12 +970,18 @@
     "http://inside-office.yllmob.com/#/personnelRecord": {
       "tags": [
         "Work",
-        "太逗"
+        "太逗",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1760938724457,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "日报及管理系统 - 人员配置",
         "updated": 1760880429584,
-        "updated3": 1760877504414,
+        "updated2": 1760938724458,
+        "updated3": 1760938803857,
         "created": 1729148625000
       }
     },
@@ -2025,19 +2031,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760938596760,
+      "uploadTimestamp": 1760938803859,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760926439878,
-      "currentSyncTimestamp": 1760938596758
+      "lastDataChangeTimestamp": 1760938596758,
+      "currentSyncTimestamp": 1760938803857
     },
     "stats": {
       "bookmarksCount": 152,
       "tagsCount": 87,
-      "totalTagsCount": 258,
+      "totalTagsCount": 259,
       "domainsCount": 119
     },
-    "updated": 1760938596760,
+    "updated": 1760938803859,
     "created": 1760926439878
   }
 }
