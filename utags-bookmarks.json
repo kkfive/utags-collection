@@ -84,6 +84,8 @@
       "tags": [
         "type/应用",
         "type/后台",
+        "topic/教育",
+        "topic/技能培训",
         "topic/内容管理",
         "domain/工作",
         "scope/内部项目",
@@ -92,11 +94,11 @@
         "source/官方"
       ],
       "meta": {
-        "description": "公司内部“技能强国”项目的Admin管理后台的测试环境入口。\n",
-        "note": "用于新功能验证、问题排查和数据模拟。请注意，此环境中的所有操作都不会影响线上生产数据，且数据可能会被定期清理或重置。\n",
+        "description": "出版社内部项目“技能强国”在线学习或技能培训平台的Admin管理后台测试环境。该系统用于平台的内容上传、课程管理、用户账户配置、数据统计及系统设置等后台操作。\n",
+        "note": "项目开发与测试阶段的核心入口。用于日常的内容配置、功能验证和演示。重要：这是测试环境，所有数据均为非生产数据，请勿与线上正式环境混淆。\n",
         "title": "[测试] 技能强国 Admin管理后台",
-        "updated": 1760939351057,
-        "updated3": 1760939417046,
+        "updated": 1760941518210,
+        "updated3": 1760941586695,
         "created": 1760520594150
       }
     },
@@ -2037,19 +2039,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760939417048,
+      "uploadTimestamp": 1760941586696,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760939029185,
-      "currentSyncTimestamp": 1760939417046
+      "lastDataChangeTimestamp": 1760939417046,
+      "currentSyncTimestamp": 1760941586695
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 86,
-      "totalTagsCount": 262,
+      "tagsCount": 88,
+      "totalTagsCount": 264,
       "domainsCount": 119
     },
-    "updated": 1760939417048,
+    "updated": 1760941586696,
     "created": 1760926439878
   }
 }
