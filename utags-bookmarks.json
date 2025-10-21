@@ -1105,14 +1105,23 @@
         "created": 1722519694000
       }
     },
-    "https://uicolors.app/create": {
+    "https://uicolors.app/": {
       "tags": [
-        "/书签/学习"
+        "type/工具",
+        "topic/色彩",
+        "activity/UI设计",
+        "activity/前端开发",
+        "platform/Web",
+        "site/uicolors",
+        "source/枢纽",
+        "scope/公开"
       ],
       "meta": {
-        "title": "uicolors.app/create",
-        "updated": 1722002412000,
-        "updated3": 1760877504414,
+        "description": "一个在线的色彩工具，允许用户快速生成、可视化并测试适用于UI设计的调色板。它能展示颜色在真实UI组件上的应用效果，并支持导出为CSS或Tailwind配置。",
+        "note": "对于快速搭建项目原型或为新设计系统寻找灵感非常有用。它的实时预览功能比很多其他色彩工具更直观，能有效避免选出在实际应用中难以阅读的颜色。",
+        "title": "UI Colors - 为你的设计系统生成和测试调色板",
+        "updated": 1761008083973,
+        "updated3": 1761008152235,
         "created": 1722002412000
       }
     },
@@ -2188,19 +2197,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761007173600,
+      "uploadTimestamp": 1761008152238,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761006875891,
-      "currentSyncTimestamp": 1761007173595
+      "lastDataChangeTimestamp": 1761007173595,
+      "currentSyncTimestamp": 1761008152235
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 100,
-      "totalTagsCount": 313,
+      "tagsCount": 106,
+      "totalTagsCount": 320,
       "domainsCount": 119
     },
-    "updated": 1761007173600,
+    "updated": 1761008152238,
     "created": 1760926439878
   }
 }
