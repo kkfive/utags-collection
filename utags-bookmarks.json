@@ -1193,12 +1193,19 @@
     },
     "https://interview.poetries.top/": {
       "tags": [
-        "/书签/学习"
+        "type/导航",
+        "topic/前端开发",
+        "activity/前端面试",
+        "activity/学习资源",
+        "site/interview.poetries.top",
+        "source/枢纽",
+        "platform/Web",
+        "scope/公开"
       ],
       "meta": {
-        "title": "前端进阶之旅",
-        "updated": 1719800288000,
-        "updated3": 1760877504414,
+        "title": "前端进阶之旅 - 前端面试与学习资源导航站",
+        "updated": 1761008202439,
+        "updated3": 1761008273790,
         "created": 1719800288000
       }
     },
@@ -2197,19 +2204,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761008152238,
+      "uploadTimestamp": 1761008273796,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761007173595,
-      "currentSyncTimestamp": 1761008152235
+      "lastDataChangeTimestamp": 1761008152235,
+      "currentSyncTimestamp": 1761008273790
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 106,
-      "totalTagsCount": 320,
+      "tagsCount": 111,
+      "totalTagsCount": 327,
       "domainsCount": 119
     },
-    "updated": 1761008152238,
+    "updated": 1761008273796,
     "created": 1760926439878
   }
 }
