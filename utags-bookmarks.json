@@ -1089,12 +1089,19 @@
     },
     "https://lzwdot.com/": {
       "tags": [
-        "/书签/学习"
+        "type/博客",
+        "topic/开发",
+        "site/lzwdot.com",
+        "source/精选",
+        "domain/学习",
+        "platform/Web"
       ],
       "meta": {
-        "title": "记录和分享，每天进步一点点！ | 前端大刘",
-        "updated": 1722519694000,
-        "updated3": 1760877504414,
+        "description": "老周的博客（LZWDOT）是一个专注于软件架构、后端技术、分布式系统和云原生领域的个人技术博客。博主以其深入浅出的文章风格，系统性地分享了大量关于技术选型、架构实践和原理剖析的高质量内容。",
+        "note": "在后端和架构领域极具影响力的中文技术博客之一。文章质量稳定，内容兼具深度和广度，非常适合中高级开发者学习和参考。博主对技术本质的剖析非常透彻，是构建和完善技术知识体系的优秀资源。",
+        "title": "前端大刘 - LZWDOT",
+        "updated": 1761007105097,
+        "updated3": 1761007173595,
         "created": 1722519694000
       }
     },
@@ -2181,19 +2188,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761006875894,
+      "uploadTimestamp": 1761007173600,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760960413233,
-      "currentSyncTimestamp": 1761006875891
+      "lastDataChangeTimestamp": 1761006875891,
+      "currentSyncTimestamp": 1761007173595
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 99,
-      "totalTagsCount": 308,
+      "tagsCount": 100,
+      "totalTagsCount": 313,
       "domainsCount": 119
     },
-    "updated": 1761006875894,
+    "updated": 1761007173600,
     "created": 1760926439878
   }
 }
