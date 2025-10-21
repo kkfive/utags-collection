@@ -1447,12 +1447,18 @@
     },
     "https://codeup.aliyun.com/": {
       "tags": [
-        "/书签/Dev"
+        "/书签/Dev",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1761009254755,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "阿里云效",
         "updated": 1705285783000,
-        "updated3": 1760877504414,
+        "updated2": 1761009254756,
+        "updated3": 1761009324058,
         "created": 1705285783000
       }
     },
@@ -2241,19 +2247,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761008685576,
+      "uploadTimestamp": 1761009324061,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761008439118,
-      "currentSyncTimestamp": 1761008685552
+      "lastDataChangeTimestamp": 1761008685552,
+      "currentSyncTimestamp": 1761009324058
     },
     "stats": {
       "bookmarksCount": 152,
       "tagsCount": 118,
-      "totalTagsCount": 342,
+      "totalTagsCount": 343,
       "domainsCount": 119
     },
-    "updated": 1761008685576,
+    "updated": 1761009324061,
     "created": 1760926439878
   }
 }
