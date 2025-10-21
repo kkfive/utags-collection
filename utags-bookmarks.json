@@ -1552,12 +1552,18 @@
     },
     "https://www.ladydaily.com/tools/upload/JYyJ75EDgZFUjtOTeoJHycGXVdUlAp": {
       "tags": [
-        "/图床"
+        "/图床",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1761008608938,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "Bitiful",
         "updated": 1638094426000,
-        "updated3": 1760877504414,
+        "updated2": 1761008608939,
+        "updated3": 1761008685552,
         "created": 1638094426000
       }
     },
@@ -1574,12 +1580,18 @@
     },
     "https://7bu.top/": {
       "tags": [
-        "/图床"
+        "/图床",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1761008612505,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "去不图床",
         "updated": 1610460303000,
-        "updated3": 1760877504414,
+        "updated2": 1761008612506,
+        "updated3": 1761008685552,
         "created": 1610460303000
       }
     },
@@ -1956,12 +1968,20 @@
     },
     "http://cdn.bnxb.com/": {
       "tags": [
-        "/建站"
+        "type/CDN",
+        "topic/网站加速",
+        "site/bnxb",
+        "source/官方",
+        "activity/网站运营",
+        "activity/资源分发",
+        "scope/公开"
       ],
       "meta": {
+        "description": "这是“笨牛网”的内容分发网络（CDN）的节点地址。其主要功能是缓存和分发该网站所使用的静态资源（如图片、JavaScript、CSS文件等），以加速全球用户的访问体验，减轻源站服务器的负载。",
+        "note": "这是一个典型的后端基础设施URL，普通用户通常无需直接访问。对于开发者或网站管理员来说，它可能用于调试资源加载问题或确认特定文件的缓存状态。直接访问根目录通常不会返回任何有意义的页面。",
         "title": "笨牛网 免费CloudFlare CDN 防御系统 CNAME接入 批量添加域名 解析 批量添加防火墙 支持railgun",
-        "updated": 1608803559000,
-        "updated3": 1760877504414,
+        "updated": 1761008558101,
+        "updated3": 1761008685552,
         "created": 1608803559000
       }
     },
@@ -2018,12 +2038,18 @@
     },
     "https://penlogs.com/user/index.php": {
       "tags": [
-        "/建站"
+        "/建站",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1761008577656,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "笔迹 - 面板",
         "updated": 1608803558000,
-        "updated3": 1760877504414,
+        "updated2": 1761008577656,
+        "updated3": 1761008685552,
         "created": 1608803558000
       }
     },
@@ -2052,12 +2078,18 @@
     },
     "https://www.dogedoge.com/tools/upload/JYyJ75EDgZFUjtOTeoJHycGXVdUlAp": {
       "tags": [
-        "/图床"
+        "/图床",
+        "._DELETED_"
       ],
+      "deletedMeta": {
+        "deleted": 1761008615938,
+        "actionType": "DELETE"
+      },
       "meta": {
         "title": "多吉图床",
         "updated": 1608803558000,
-        "updated3": 1760877504414,
+        "updated2": 1761008615939,
+        "updated3": 1761008685552,
         "created": 1608803558000
       }
     },
@@ -2209,19 +2241,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761008439125,
+      "uploadTimestamp": 1761008685576,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761008273790,
-      "currentSyncTimestamp": 1761008439118
+      "lastDataChangeTimestamp": 1761008439118,
+      "currentSyncTimestamp": 1761008685552
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 113,
-      "totalTagsCount": 332,
+      "tagsCount": 118,
+      "totalTagsCount": 342,
       "domainsCount": 119
     },
-    "updated": 1761008439125,
+    "updated": 1761008685576,
     "created": 1760926439878
   }
 }
