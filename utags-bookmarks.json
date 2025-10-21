@@ -1127,12 +1127,17 @@
     },
     "https://fe.duyiedu.com/": {
       "tags": [
-        "/书签/学习"
+        "type/教育平台",
+        "topic/前端开发",
+        "activity/前端学习",
+        "site/小鹅通",
+        "source/官方",
+        "platform/Web"
       ],
       "meta": {
-        "title": "渡一机构",
-        "updated": 1721999307000,
-        "updated3": 1760877504414,
+        "title": "渡一教育 - Web前端开发培训课程平台",
+        "updated": 1761008370597,
+        "updated3": 1761008439118,
         "created": 1721999307000
       }
     },
@@ -2204,19 +2209,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761008273796,
+      "uploadTimestamp": 1761008439125,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761008152235,
-      "currentSyncTimestamp": 1761008273790
+      "lastDataChangeTimestamp": 1761008273790,
+      "currentSyncTimestamp": 1761008439118
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 111,
-      "totalTagsCount": 327,
+      "tagsCount": 113,
+      "totalTagsCount": 332,
       "domainsCount": 119
     },
-    "updated": 1761008273796,
+    "updated": 1761008439125,
     "created": 1760926439878
   }
 }
