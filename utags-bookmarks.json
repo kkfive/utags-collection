@@ -1060,12 +1060,19 @@
     },
     "https://godbasin.github.io/front-end-playground/": {
       "tags": [
-        "/书签/学习"
+        "type/博客",
+        "topic/开发",
+        "site/godbasin.github.io",
+        "source/精选",
+        "domain/学习",
+        "platform/Web"
       ],
       "meta": {
-        "title": "被删的前端游乐场",
-        "updated": 1724593255000,
-        "updated3": 1760877504414,
+        "description": "这是由技术博主“被删”创建的前端技术博客，名为“前端技术游乐场”。博客内容深入且系统，涵盖了前端工程化、性能优化、架构设计、跨端开发等多个领域，以其高质量的深度文章和丰富的实践案例而闻名。",
+        "note": "一个极具价值的前端深度学习资源库。作者的文章不仅讲解技术原理，更分享了大量来自一线项目的实践经验和思考，适合有一定基础的前端开发者进阶学习。内容质量非常高，值得反复阅读和收藏。",
+        "title": "前端技术游乐场 - 被删的前端游乐场",
+        "updated": 1761006800138,
+        "updated3": 1761006875891,
         "created": 1724593255000
       }
     },
@@ -2174,19 +2181,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1760960413237,
+      "uploadTimestamp": 1761006875894,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1760954444507,
-      "currentSyncTimestamp": 1760960413233
+      "lastDataChangeTimestamp": 1760960413233,
+      "currentSyncTimestamp": 1761006875891
     },
     "stats": {
       "bookmarksCount": 152,
-      "tagsCount": 96,
-      "totalTagsCount": 303,
+      "tagsCount": 99,
+      "totalTagsCount": 308,
       "domainsCount": 119
     },
-    "updated": 1760960413237,
+    "updated": 1761006875894,
     "created": 1760926439878
   }
 }
