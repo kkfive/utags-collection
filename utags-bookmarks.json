@@ -109,23 +109,6 @@
         "created": 1760520553966
       }
     },
-    "https://code.cloud.alipay.com/dashboard/projects": {
-      "tags": [
-        "company/出版社",
-        "company/蚂蚁集团",
-        "project/蚂蚁合作项目",
-        "type/代码仓库",
-        "platform/阿里云效"
-      ],
-      "meta": {
-        "description": "该代码仓库托管在“阿里云效”平台上，用于存放“出版社”与“蚂蚁集团”所有合作项目的源代码，是双方技术协作的核心资产。\n",
-        "note": "所有与蚂蚁集团的技术对接、代码同步和版本发布都在此仓库进行，是跨公司协作的核心平台和代码的唯一真实来源 (Single Source of Truth)。\n",
-        "title": "阿里云效 - 出版社合作项目代码总仓",
-        "updated": 1760943762724,
-        "updated3": 1760943828324,
-        "created": 1760520524434
-      }
-    },
     "https://tenant-pc-104-d86bfa80-b34a-408d-8653-8d37362003ab.dev-hz.cloudbaseapp-sandbox.cn/": {
       "tags": [
         "company/出版社",
@@ -1447,18 +1430,17 @@
     },
     "https://codeup.aliyun.com/": {
       "tags": [
-        "/书签/Dev",
-        "._DELETED_"
+        "project/云效",
+        "type/代码托管",
+        "topic/代码管理",
+        "activity/软件开发",
+        "activity/团队协作"
       ],
-      "deletedMeta": {
-        "deleted": 1761009254755,
-        "actionType": "DELETE"
-      },
       "meta": {
-        "title": "阿里云效",
-        "updated": 1705285783000,
+        "title": "阿里云效 - 出版社合作项目代码总仓",
+        "updated": 1761009341873,
         "updated2": 1761009254756,
-        "updated3": 1761009324058,
+        "updated3": 1761009413126,
         "created": 1705285783000
       }
     },
@@ -2247,19 +2229,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761009324061,
+      "uploadTimestamp": 1761009413127,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761008685552,
-      "currentSyncTimestamp": 1761009324058
+      "lastDataChangeTimestamp": 1761009324058,
+      "currentSyncTimestamp": 1761009413126
     },
     "stats": {
-      "bookmarksCount": 152,
-      "tagsCount": 118,
-      "totalTagsCount": 343,
-      "domainsCount": 119
+      "bookmarksCount": 151,
+      "tagsCount": 121,
+      "totalTagsCount": 341,
+      "domainsCount": 118
     },
-    "updated": 1761009324061,
+    "updated": 1761009413127,
     "created": 1760926439878
   }
 }
