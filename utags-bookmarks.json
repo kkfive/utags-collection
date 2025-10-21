@@ -1,5 +1,17 @@
 {
   "data": {
+    "https://massgrave.dev/": {
+      "tags": [
+        "工具/windows"
+      ],
+      "meta": {
+        "description": "Windows激活",
+        "title": "MAS",
+        "updated": 1761014669310,
+        "updated3": 1761014737780,
+        "created": 1761014669310
+      }
+    },
     "https://cs-nzgjy.acftu.org/": {
       "tags": [
         "company/出版社",
@@ -2229,19 +2241,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761009413127,
+      "uploadTimestamp": 1761014737781,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761009324058,
-      "currentSyncTimestamp": 1761009413126
+      "lastDataChangeTimestamp": 1761009413126,
+      "currentSyncTimestamp": 1761014737780
     },
     "stats": {
-      "bookmarksCount": 151,
-      "tagsCount": 121,
-      "totalTagsCount": 341,
-      "domainsCount": 118
+      "bookmarksCount": 152,
+      "tagsCount": 122,
+      "totalTagsCount": 342,
+      "domainsCount": 119
     },
-    "updated": 1761009413127,
+    "updated": 1761014737781,
     "created": 1760926439878
   }
 }
