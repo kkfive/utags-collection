@@ -2,17 +2,12 @@
   "data": {
     "https://vscode-cpp-starter.readthedocs.io/appendix/windows_chinese_issue/": {
       "tags": [
-        "type/文档",
-        "topic/wsl",
-        "topic/编码问题",
-        "site/readthedocs.io",
-        "platform/Web",
-        "scope/公开"
+        "文章"
       ],
       "meta": {
-        "title": "VS Code C++ Starter - Windows中文编码问题解决方案",
-        "updated": 1761040657703,
-        "updated3": 1761060501692,
+        "title": "Windows 终端输出中文乱码问题",
+        "updated": 1762352901168,
+        "updated3": 1762352989683,
         "created": 1761040657703
       }
     },
@@ -1458,17 +1453,13 @@
     },
     "https://codeup.aliyun.com/": {
       "tags": [
-        "project/云效",
-        "type/代码托管",
-        "topic/代码管理",
-        "activity/软件开发",
-        "activity/团队协作"
+        "代码托管"
       ],
       "meta": {
         "title": "阿里云效 - 出版社合作项目代码总仓",
-        "updated": 1761009341873,
+        "updated": 1762352926898,
         "updated2": 1761009254756,
-        "updated3": 1761009413126,
+        "updated3": 1762352989683,
         "created": 1705285783000
       }
     },
@@ -2257,19 +2248,19 @@
       "browser": "Chrome 140.0",
       "os": "macOS",
       "deviceType": "desktop",
-      "uploadTimestamp": 1761060501697,
+      "uploadTimestamp": 1762352989687,
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761014737780,
-      "currentSyncTimestamp": 1761060501692
+      "lastDataChangeTimestamp": 1761060501692,
+      "currentSyncTimestamp": 1762352989683
     },
     "stats": {
       "bookmarksCount": 153,
-      "tagsCount": 125,
-      "totalTagsCount": 348,
+      "tagsCount": 119,
+      "totalTagsCount": 339,
       "domainsCount": 120
     },
-    "updated": 1761060501697,
+    "updated": 1762352989687,
     "created": 1760926439878
   }
 }
