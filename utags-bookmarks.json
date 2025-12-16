@@ -1,16 +1,5 @@
 {
   "data": {
-    "https://rate.linux.do/": {
-      "tags": [
-        "linux.do"
-      ],
-      "meta": {
-        "title": "LinuxDo商家评价平台",
-        "updated": 1762238345646,
-        "updated3": 1763514250937,
-        "created": 1762238345646
-      }
-    },
     "https://vscode-cpp-starter.readthedocs.io/appendix/windows_chinese_issue/": {
       "tags": [
         "文章"
@@ -2259,19 +2248,19 @@
       "browser": "Chrome 142.0",
       "os": "Windows",
       "deviceType": "desktop",
-      "uploadTimestamp": 1763514250940,
+      "uploadTimestamp": 1765867443423,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
       "origin": "https://utags.link",
-      "lastDataChangeTimestamp": 1761137139258,
-      "currentSyncTimestamp": 1763514250937
+      "lastDataChangeTimestamp": 1763514252851,
+      "currentSyncTimestamp": 1765867443422
     },
     "stats": {
-      "bookmarksCount": 154,
-      "tagsCount": 120,
-      "totalTagsCount": 340,
-      "domainsCount": 121
+      "bookmarksCount": 153,
+      "tagsCount": 119,
+      "totalTagsCount": 339,
+      "domainsCount": 120
     },
-    "updated": 1763514250940,
+    "updated": 1765867443423,
     "created": 1760926439878
   }
 }
